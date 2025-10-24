@@ -1,1 +1,2 @@
-# belajar-github
+# Belajar GitHub
+Ini commit pertama gue di GitHub 😎
